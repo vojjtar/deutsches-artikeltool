@@ -1,0 +1,18 @@
+{
+    "rules": {
+        "or": "mas",
+        "ling": "mas",
+        "ig": "mas",
+        "ner": "mas",
+        "smus": "mas",
+        "ung": "fem",
+        "ie": "fem",
+        "ei": "fem",
+        "keit": "fem",
+        "heit": "fem",
+        "schaft": "fem",
+        "tät": "fem",
+        "ik": "fem",
+        "tion": "fem"
+    }
+}
